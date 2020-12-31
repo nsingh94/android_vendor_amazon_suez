@@ -67,7 +67,7 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/mt8173-common/proprietary/vendor/etc/audio-algorithms/coefs_FilterBank.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/audio-algorithms/coefs_FilterBank.cfg \
     vendor/amazon/mt8173-common/proprietary/vendor/etc/audio-algorithms/EQ_2048.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/audio-algorithms/EQ_2048.cfg \
     vendor/amazon/mt8173-common/proprietary/vendor/etc/audio-algorithms/MBCL.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/audio-algorithms/MBCL.cfg \
-    vendor/amazon/mt8173-common/proprietary/vendor/etc/audio_effects.conf:$(TARGET_COPY_OUT_VENDOR)/etc/audio_effects.conf \
+    vendor/amazon/mt8173-common/proprietary/vendor/etc/audio_effects.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_effects.xml \
     vendor/amazon/mt8173-common/proprietary/vendor/etc/audio_param/AudioParamOptions.xml:$(TARGET_COPY_OUT_VENDOR)/etc/audio_param/AudioParamOptions.xml \
     vendor/amazon/mt8173-common/proprietary/vendor/etc/audio_policy.conf:$(TARGET_COPY_OUT_VENDOR)/etc/audio_policy.conf \
     vendor/amazon/mt8173-common/proprietary/vendor/etc/dolby/ds1-0028.xml:$(TARGET_COPY_OUT_VENDOR)/etc/dolby/ds1-0028.xml \
