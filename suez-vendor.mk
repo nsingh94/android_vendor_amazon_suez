@@ -178,8 +178,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/suez/proprietary/vendor/lib/libged.so:$(TARGET_COPY_OUT_VENDOR)/lib/libged.so \
     vendor/amazon/suez/proprietary/vendor/lib/libglslcompiler.so:$(TARGET_COPY_OUT_VENDOR)/lib/libglslcompiler.so \
     vendor/amazon/suez/proprietary/vendor/lib/libgpu_aux.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgpu_aux.so \
-    vendor/amazon/suez/proprietary/vendor/lib/libgralloc_extra.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgralloc_extra.so \
-    vendor/amazon/suez/proprietary/vendor/lib/libgui_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libgui_ext.so \
     vendor/amazon/suez/proprietary/vendor/lib/libh264enc_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libh264enc_sa.ca7.so \
     vendor/amazon/suez/proprietary/vendor/lib/libh264enc_sb.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libh264enc_sb.ca7.so \
     vendor/amazon/suez/proprietary/vendor/lib/libhal_effects.so:$(TARGET_COPY_OUT_VENDOR)/lib/libhal_effects.so \
@@ -233,7 +231,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/suez/proprietary/vendor/lib/libstlport.so:$(TARGET_COPY_OUT_VENDOR)/lib/libstlport.so \
     vendor/amazon/suez/proprietary/vendor/lib/libSwJpgCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib/libSwJpgCodec.so \
     vendor/amazon/suez/proprietary/vendor/lib/libtz_uree.so:$(TARGET_COPY_OUT_VENDOR)/lib/libtz_uree.so \
-    vendor/amazon/suez/proprietary/vendor/lib/libui_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib/libui_ext.so \
     vendor/amazon/suez/proprietary/vendor/lib/liburee_meta_drmkeyinstall_v2.so:$(TARGET_COPY_OUT_VENDOR)/lib/liburee_meta_drmkeyinstall_v2.so \
     vendor/amazon/suez/proprietary/vendor/lib/libusc.so:$(TARGET_COPY_OUT_VENDOR)/lib/libusc.so \
     vendor/amazon/suez/proprietary/vendor/lib/libvc1dec_sa.ca7.so:$(TARGET_COPY_OUT_VENDOR)/lib/libvc1dec_sa.ca7.so \
@@ -339,8 +336,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/suez/proprietary/vendor/lib64/libged.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libged.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libglslcompiler.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libglslcompiler.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libgpu_aux.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgpu_aux.so \
-    vendor/amazon/suez/proprietary/vendor/lib64/libgralloc_extra.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgralloc_extra.so \
-    vendor/amazon/suez/proprietary/vendor/lib64/libgui_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libgui_ext.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libHadeanAlgorithm-AcfDetector.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libHadeanAlgorithm-AcfDetector.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libhadeanframework_core.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhadeanframework_core.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libhadeangpu_util.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libhadeangpu_util.so \
@@ -382,7 +377,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/suez/proprietary/vendor/lib64/libstlport.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libstlport.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libSwJpgCodec.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libSwJpgCodec.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libtz_uree.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libtz_uree.so \
-    vendor/amazon/suez/proprietary/vendor/lib64/libui_ext.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libui_ext.so \
     vendor/amazon/suez/proprietary/vendor/lib64/liburee_meta_drmkeyinstall_v2.so:$(TARGET_COPY_OUT_VENDOR)/lib64/liburee_meta_drmkeyinstall_v2.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libusc.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libusc.so \
     vendor/amazon/suez/proprietary/vendor/lib64/libvcodec_utility.so:$(TARGET_COPY_OUT_VENDOR)/lib64/libvcodec_utility.so \
