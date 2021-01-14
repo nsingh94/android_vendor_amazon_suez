@@ -54,7 +54,6 @@ PRODUCT_COPY_FILES += \
     vendor/amazon/suez/proprietary/vendor/bin/thermal_manager:$(TARGET_COPY_OUT_VENDOR)/bin/thermal_manager \
     vendor/amazon/suez/proprietary/vendor/bin/wifitesttool:$(TARGET_COPY_OUT_VENDOR)/bin/wifitesttool \
     vendor/amazon/suez/proprietary/vendor/bin/wmt_loader:$(TARGET_COPY_OUT_VENDOR)/bin/wmt_loader \
-    vendor/amazon/suez/proprietary/vendor/bin/wpa_supplicant:$(TARGET_COPY_OUT_VENDOR)/bin/wpa_supplicant \
     vendor/amazon/suez/proprietary/vendor/etc/audio-algorithms/AFE.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/audio-algorithms/AFE.cfg \
     vendor/amazon/suez/proprietary/vendor/etc/audio-algorithms/coefs_FBF.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/audio-algorithms/coefs_FBF.cfg \
     vendor/amazon/suez/proprietary/vendor/etc/audio-algorithms/coefs_FilterBank.cfg:$(TARGET_COPY_OUT_VENDOR)/etc/audio-algorithms/coefs_FilterBank.cfg \
